@@ -1,0 +1,12 @@
+/Users/exodigital/source/repo/exam/sample/rod/bin/Debug/netcoreapp3.1/rod.deps.json
+/Users/exodigital/source/repo/exam/sample/rod/bin/Debug/netcoreapp3.1/rod.runtimeconfig.json
+/Users/exodigital/source/repo/exam/sample/rod/bin/Debug/netcoreapp3.1/rod.runtimeconfig.dev.json
+/Users/exodigital/source/repo/exam/sample/rod/bin/Debug/netcoreapp3.1/rod.dll
+/Users/exodigital/source/repo/exam/sample/rod/bin/Debug/netcoreapp3.1/rod.pdb
+/Users/exodigital/source/repo/exam/sample/rod/obj/Debug/netcoreapp3.1/rod.csproj.AssemblyReference.cache
+/Users/exodigital/source/repo/exam/sample/rod/obj/Debug/netcoreapp3.1/rod.AssemblyInfoInputs.cache
+/Users/exodigital/source/repo/exam/sample/rod/obj/Debug/netcoreapp3.1/rod.AssemblyInfo.cs
+/Users/exodigital/source/repo/exam/sample/rod/obj/Debug/netcoreapp3.1/rod.csproj.CoreCompileInputs.cache
+/Users/exodigital/source/repo/exam/sample/rod/obj/Debug/netcoreapp3.1/rod.dll
+/Users/exodigital/source/repo/exam/sample/rod/obj/Debug/netcoreapp3.1/rod.pdb
+/Users/exodigital/source/repo/exam/sample/rod/obj/Debug/netcoreapp3.1/rod.genruntimeconfig.cache

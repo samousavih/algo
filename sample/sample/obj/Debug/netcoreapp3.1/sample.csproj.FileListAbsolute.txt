@@ -1,0 +1,12 @@
+/Users/exodigital/source/repo/exam/sample/sample/bin/Debug/netcoreapp3.1/sample.deps.json
+/Users/exodigital/source/repo/exam/sample/sample/bin/Debug/netcoreapp3.1/sample.runtimeconfig.json
+/Users/exodigital/source/repo/exam/sample/sample/bin/Debug/netcoreapp3.1/sample.runtimeconfig.dev.json
+/Users/exodigital/source/repo/exam/sample/sample/bin/Debug/netcoreapp3.1/sample.dll
+/Users/exodigital/source/repo/exam/sample/sample/bin/Debug/netcoreapp3.1/sample.pdb
+/Users/exodigital/source/repo/exam/sample/sample/obj/Debug/netcoreapp3.1/sample.csproj.AssemblyReference.cache
+/Users/exodigital/source/repo/exam/sample/sample/obj/Debug/netcoreapp3.1/sample.AssemblyInfoInputs.cache
+/Users/exodigital/source/repo/exam/sample/sample/obj/Debug/netcoreapp3.1/sample.AssemblyInfo.cs
+/Users/exodigital/source/repo/exam/sample/sample/obj/Debug/netcoreapp3.1/sample.csproj.CoreCompileInputs.cache
+/Users/exodigital/source/repo/exam/sample/sample/obj/Debug/netcoreapp3.1/sample.dll
+/Users/exodigital/source/repo/exam/sample/sample/obj/Debug/netcoreapp3.1/sample.pdb
+/Users/exodigital/source/repo/exam/sample/sample/obj/Debug/netcoreapp3.1/sample.genruntimeconfig.cache

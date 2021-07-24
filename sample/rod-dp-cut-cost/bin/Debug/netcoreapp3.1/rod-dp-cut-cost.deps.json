@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "rod-dp-cut-cost/1.0.0": {
+        "runtime": {
+          "rod-dp-cut-cost.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "rod-dp-cut-cost/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

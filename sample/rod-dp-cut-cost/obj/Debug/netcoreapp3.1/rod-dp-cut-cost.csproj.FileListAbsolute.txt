@@ -1,0 +1,12 @@
+/Users/exodigital/source/repo/exam/sample/rod-dp-cut-cost/bin/Debug/netcoreapp3.1/rod-dp-cut-cost.deps.json
+/Users/exodigital/source/repo/exam/sample/rod-dp-cut-cost/bin/Debug/netcoreapp3.1/rod-dp-cut-cost.runtimeconfig.json
+/Users/exodigital/source/repo/exam/sample/rod-dp-cut-cost/bin/Debug/netcoreapp3.1/rod-dp-cut-cost.runtimeconfig.dev.json
+/Users/exodigital/source/repo/exam/sample/rod-dp-cut-cost/bin/Debug/netcoreapp3.1/rod-dp-cut-cost.dll
+/Users/exodigital/source/repo/exam/sample/rod-dp-cut-cost/bin/Debug/netcoreapp3.1/rod-dp-cut-cost.pdb
+/Users/exodigital/source/repo/exam/sample/rod-dp-cut-cost/obj/Debug/netcoreapp3.1/rod-dp-cut-cost.csproj.AssemblyReference.cache
+/Users/exodigital/source/repo/exam/sample/rod-dp-cut-cost/obj/Debug/netcoreapp3.1/rod-dp-cut-cost.AssemblyInfoInputs.cache
+/Users/exodigital/source/repo/exam/sample/rod-dp-cut-cost/obj/Debug/netcoreapp3.1/rod-dp-cut-cost.AssemblyInfo.cs
+/Users/exodigital/source/repo/exam/sample/rod-dp-cut-cost/obj/Debug/netcoreapp3.1/rod-dp-cut-cost.csproj.CoreCompileInputs.cache
+/Users/exodigital/source/repo/exam/sample/rod-dp-cut-cost/obj/Debug/netcoreapp3.1/rod-dp-cut-cost.dll
+/Users/exodigital/source/repo/exam/sample/rod-dp-cut-cost/obj/Debug/netcoreapp3.1/rod-dp-cut-cost.pdb
+/Users/exodigital/source/repo/exam/sample/rod-dp-cut-cost/obj/Debug/netcoreapp3.1/rod-dp-cut-cost.genruntimeconfig.cache
