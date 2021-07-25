@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rod-dp-cut-cost", "rod-dp-c
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrix-multiplication-dp", "matrix-multiplication-dp\matrix-multiplication-dp.csproj", "{EBF7FF58-8CCB-432E-A102-0D756A3E4163}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longest-common-subsequence", "longest-common-subsequesnce\longest-common-subsequence.csproj", "{440EC049-C897-4CAF-95BB-DEC0FB9B52D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longestt-common-substring", "longest-common-substring\longestt-common-substring.csproj", "{592B7027-391E-4503-8C22-D1C91DE74226}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{EBF7FF58-8CCB-432E-A102-0D756A3E4163}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBF7FF58-8CCB-432E-A102-0D756A3E4163}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBF7FF58-8CCB-432E-A102-0D756A3E4163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{440EC049-C897-4CAF-95BB-DEC0FB9B52D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440EC049-C897-4CAF-95BB-DEC0FB9B52D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440EC049-C897-4CAF-95BB-DEC0FB9B52D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440EC049-C897-4CAF-95BB-DEC0FB9B52D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{592B7027-391E-4503-8C22-D1C91DE74226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592B7027-391E-4503-8C22-D1C91DE74226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592B7027-391E-4503-8C22-D1C91DE74226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592B7027-391E-4503-8C22-D1C91DE74226}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

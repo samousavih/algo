@@ -1,29 +1,30 @@
-﻿<Properties StartupConfiguration="{EBF7FF58-8CCB-432E-A102-0D756A3E4163}|Default">
+﻿<Properties StartupConfiguration="{6BE0FDEE-C45E-4B24-A6F5-F3FA3DDCA936}|Default">
   <MonoDevelop.Ide.ItemProperties.sample PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.matrix-multiplication-dp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="rod-dp-cut-cost/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.matrix-multiplication-dp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="sample.sln">
     <Files>
       <File FileName="sample/Program.cs" Line="36" Column="15" />
       <File FileName="rod/Program.cs" Line="29" Column="1" />
       <File FileName="rod-dp/Program.cs" Line="17" Column="12" />
-      <File FileName="rod-dp-cut-cost/Program.cs" Line="16" Column="21" />
-      <File FileName="matrix-multiplication-dp/Program.cs" Line="1" Column="1" />
+      <File FileName="rod-dp-cut-cost/Program.cs" Line="16" Column="23" />
+      <File FileName="matrix-multiplication-dp/Program.cs" Line="28" Column="14" />
+      <File FileName="lcs/Program.cs" Line="46" Column="64" />
+      <File FileName="lcs-efficent/Program.cs" Line="25" Column="50" />
+      <File FileName="longest-common-substring/longestt-common-substring.csproj" Line="1" Column="1" />
+      <File FileName="sample.sln" Line="40" Column="81" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="sample" expanded="True">
-            <Node name="matrix-multiplication-dp" expanded="True" />
-            <Node name="rod-dp-cut-cost" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="sample" expanded="True" selected="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State>
-          <Value>list.Take(c - 1).ToList()</Value>
-          <Value>sample1ort(list.Skip(c - 1).ToList())</Value>
+          <Value>lcsLen</Value>
+          <Value>c</Value>
+          <Value>y[c + 1]</Value>
+          <Value>common[lcsLen - 1, c]</Value>
         </State>
       </Pad>
     </Pads>
@@ -32,6 +33,12 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.rod-dp-cut-cost PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.rod-dp PreferredExecutionTarget="MonoDevelop.Default" />
+  <DisabledProjects>
+    <String>lcs-efficent/longest-common-subsequence.csproj</String>
+    <String>lcs/longestt-common-substring.csproj</String>
+    <String>longest-common-subsequence/longest-common-subsequence.csproj</String>
+    <String>longestt-common-substring/longestt-common-substring.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

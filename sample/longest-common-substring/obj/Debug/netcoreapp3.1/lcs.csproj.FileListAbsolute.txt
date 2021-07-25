@@ -1,0 +1,12 @@
+/Users/exodigital/source/repo/exam/sample/lcs/bin/Debug/netcoreapp3.1/lcs.deps.json
+/Users/exodigital/source/repo/exam/sample/lcs/bin/Debug/netcoreapp3.1/lcs.runtimeconfig.json
+/Users/exodigital/source/repo/exam/sample/lcs/bin/Debug/netcoreapp3.1/lcs.runtimeconfig.dev.json
+/Users/exodigital/source/repo/exam/sample/lcs/bin/Debug/netcoreapp3.1/lcs.dll
+/Users/exodigital/source/repo/exam/sample/lcs/bin/Debug/netcoreapp3.1/lcs.pdb
+/Users/exodigital/source/repo/exam/sample/lcs/obj/Debug/netcoreapp3.1/lcs.csproj.AssemblyReference.cache
+/Users/exodigital/source/repo/exam/sample/lcs/obj/Debug/netcoreapp3.1/lcs.AssemblyInfoInputs.cache
+/Users/exodigital/source/repo/exam/sample/lcs/obj/Debug/netcoreapp3.1/lcs.AssemblyInfo.cs
+/Users/exodigital/source/repo/exam/sample/lcs/obj/Debug/netcoreapp3.1/lcs.csproj.CoreCompileInputs.cache
+/Users/exodigital/source/repo/exam/sample/lcs/obj/Debug/netcoreapp3.1/lcs.dll
+/Users/exodigital/source/repo/exam/sample/lcs/obj/Debug/netcoreapp3.1/lcs.pdb
+/Users/exodigital/source/repo/exam/sample/lcs/obj/Debug/netcoreapp3.1/lcs.genruntimeconfig.cache
