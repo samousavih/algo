@@ -1,0 +1,12 @@
+/Users/exodigital/source/repo/exam/sample/tree-diameter/bin/Debug/netcoreapp3.1/tree-diameter.deps.json
+/Users/exodigital/source/repo/exam/sample/tree-diameter/bin/Debug/netcoreapp3.1/tree-diameter.runtimeconfig.json
+/Users/exodigital/source/repo/exam/sample/tree-diameter/bin/Debug/netcoreapp3.1/tree-diameter.runtimeconfig.dev.json
+/Users/exodigital/source/repo/exam/sample/tree-diameter/bin/Debug/netcoreapp3.1/tree-diameter.dll
+/Users/exodigital/source/repo/exam/sample/tree-diameter/bin/Debug/netcoreapp3.1/tree-diameter.pdb
+/Users/exodigital/source/repo/exam/sample/tree-diameter/obj/Debug/netcoreapp3.1/tree-diameter.csproj.AssemblyReference.cache
+/Users/exodigital/source/repo/exam/sample/tree-diameter/obj/Debug/netcoreapp3.1/tree-diameter.AssemblyInfoInputs.cache
+/Users/exodigital/source/repo/exam/sample/tree-diameter/obj/Debug/netcoreapp3.1/tree-diameter.AssemblyInfo.cs
+/Users/exodigital/source/repo/exam/sample/tree-diameter/obj/Debug/netcoreapp3.1/tree-diameter.csproj.CoreCompileInputs.cache
+/Users/exodigital/source/repo/exam/sample/tree-diameter/obj/Debug/netcoreapp3.1/tree-diameter.dll
+/Users/exodigital/source/repo/exam/sample/tree-diameter/obj/Debug/netcoreapp3.1/tree-diameter.pdb
+/Users/exodigital/source/repo/exam/sample/tree-diameter/obj/Debug/netcoreapp3.1/tree-diameter.genruntimeconfig.cache

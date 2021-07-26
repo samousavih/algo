@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longestt-common-substring",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tree-max-sum-not-connected-nodes", "tree-max-sum-not-connected-nodes\tree-max-sum-not-connected-nodes.csproj", "{4E996FC8-E1A0-4CEE-8C1E-54029D9E2D76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tree-diameter", "tree-diameter\tree-diameter.csproj", "{4D1CD96D-CAEB-4ECA-97E0-CF7CE6324580}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{4E996FC8-E1A0-4CEE-8C1E-54029D9E2D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E996FC8-E1A0-4CEE-8C1E-54029D9E2D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E996FC8-E1A0-4CEE-8C1E-54029D9E2D76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D1CD96D-CAEB-4ECA-97E0-CF7CE6324580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1CD96D-CAEB-4ECA-97E0-CF7CE6324580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1CD96D-CAEB-4ECA-97E0-CF7CE6324580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1CD96D-CAEB-4ECA-97E0-CF7CE6324580}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
