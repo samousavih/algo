@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sample", "sample\sample.csproj", "{6BE0FDEE-C45E-4B24-A6F5-F3FA3DDCA936}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "closest-next-string", "sample\closest-next-string.csproj", "{6BE0FDEE-C45E-4B24-A6F5-F3FA3DDCA936}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rod-naive", "rod\rod-naive.csproj", "{5610DB5C-4F75-4AAC-96AB-6D5F513CCB10}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longest-common-subsequence", "longest-common-subsequesnce\longest-common-subsequence.csproj", "{440EC049-C897-4CAF-95BB-DEC0FB9B52D7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longestt-common-substring", "longest-common-substring\longestt-common-substring.csproj", "{592B7027-391E-4503-8C22-D1C91DE74226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tree-max-sum-not-connected-nodes", "tree-max-sum-not-connected-nodes\tree-max-sum-not-connected-nodes.csproj", "{4E996FC8-E1A0-4CEE-8C1E-54029D9E2D76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{592B7027-391E-4503-8C22-D1C91DE74226}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{592B7027-391E-4503-8C22-D1C91DE74226}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{592B7027-391E-4503-8C22-D1C91DE74226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E996FC8-E1A0-4CEE-8C1E-54029D9E2D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E996FC8-E1A0-4CEE-8C1E-54029D9E2D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E996FC8-E1A0-4CEE-8C1E-54029D9E2D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E996FC8-E1A0-4CEE-8C1E-54029D9E2D76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

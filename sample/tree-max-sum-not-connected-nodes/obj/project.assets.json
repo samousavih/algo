@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/exodigital/source/repo/exam/sample/longest-common-subsequesnce/longest-common-subsequence.csproj",
-      "projectName": "longest-common-subsequence",
-      "projectPath": "/Users/exodigital/source/repo/exam/sample/longest-common-subsequesnce/longest-common-subsequence.csproj",
+      "projectUniqueName": "/Users/exodigital/source/repo/exam/sample/tree-max-sum-not-connected-nodes/tree-max-sum-not-connected-nodes.csproj",
+      "projectName": "tree-max-sum-not-connected-nodes",
+      "projectPath": "/Users/exodigital/source/repo/exam/sample/tree-max-sum-not-connected-nodes/tree-max-sum-not-connected-nodes.csproj",
       "packagesPath": "/Users/exodigital/.nuget/packages/",
-      "outputPath": "/Users/exodigital/source/repo/exam/sample/longest-common-subsequesnce/obj/",
+      "outputPath": "/Users/exodigital/source/repo/exam/sample/tree-max-sum-not-connected-nodes/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/exodigital/.config/NuGet/NuGet.Config"

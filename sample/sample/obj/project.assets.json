@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/exodigital/source/repo/exam/sample/sample/sample.csproj",
-      "projectName": "sample",
-      "projectPath": "/Users/exodigital/source/repo/exam/sample/sample/sample.csproj",
+      "projectUniqueName": "/Users/exodigital/source/repo/exam/sample/sample/closest-next-string.csproj",
+      "projectName": "closest-next-string",
+      "projectPath": "/Users/exodigital/source/repo/exam/sample/sample/closest-next-string.csproj",
       "packagesPath": "/Users/exodigital/.nuget/packages/",
       "outputPath": "/Users/exodigital/source/repo/exam/sample/sample/obj/",
       "projectStyle": "PackageReference",

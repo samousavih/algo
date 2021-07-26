@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6MLRnSFLaN6zWZQBd+zQ2SZd4d5Bn5nS7bhnd4nFqFwampPhtbl92FSqDe3LTK8+9V05CJhhMo1P1/0oOU9JiQ==",
+  "dgSpecHash": "ZTDOHOKLqvwTmiRcRuMsifKxjrjka3V9lyrL/uY8GqFNZ3UxrcovtIvnY8Y8r6b9WkGzmOQSMnVs9YH2V5ojiw==",
   "success": true,
-  "projectFilePath": "/Users/exodigital/source/repo/exam/sample/sample/sample.csproj",
+  "projectFilePath": "/Users/exodigital/source/repo/exam/sample/sample/closest-next-string.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

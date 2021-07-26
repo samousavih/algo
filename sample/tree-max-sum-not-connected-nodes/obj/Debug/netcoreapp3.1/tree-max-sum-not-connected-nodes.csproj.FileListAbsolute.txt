@@ -1,0 +1,12 @@
+/Users/exodigital/source/repo/exam/sample/tree-max-sum-not-connected-nodes/bin/Debug/netcoreapp3.1/tree-max-sum-not-connected-nodes.deps.json
+/Users/exodigital/source/repo/exam/sample/tree-max-sum-not-connected-nodes/bin/Debug/netcoreapp3.1/tree-max-sum-not-connected-nodes.runtimeconfig.json
+/Users/exodigital/source/repo/exam/sample/tree-max-sum-not-connected-nodes/bin/Debug/netcoreapp3.1/tree-max-sum-not-connected-nodes.runtimeconfig.dev.json
+/Users/exodigital/source/repo/exam/sample/tree-max-sum-not-connected-nodes/bin/Debug/netcoreapp3.1/tree-max-sum-not-connected-nodes.dll
+/Users/exodigital/source/repo/exam/sample/tree-max-sum-not-connected-nodes/bin/Debug/netcoreapp3.1/tree-max-sum-not-connected-nodes.pdb
+/Users/exodigital/source/repo/exam/sample/tree-max-sum-not-connected-nodes/obj/Debug/netcoreapp3.1/tree-max-sum-not-connected-nodes.csproj.AssemblyReference.cache
+/Users/exodigital/source/repo/exam/sample/tree-max-sum-not-connected-nodes/obj/Debug/netcoreapp3.1/tree-max-sum-not-connected-nodes.AssemblyInfoInputs.cache
+/Users/exodigital/source/repo/exam/sample/tree-max-sum-not-connected-nodes/obj/Debug/netcoreapp3.1/tree-max-sum-not-connected-nodes.AssemblyInfo.cs
+/Users/exodigital/source/repo/exam/sample/tree-max-sum-not-connected-nodes/obj/Debug/netcoreapp3.1/tree-max-sum-not-connected-nodes.csproj.CoreCompileInputs.cache
+/Users/exodigital/source/repo/exam/sample/tree-max-sum-not-connected-nodes/obj/Debug/netcoreapp3.1/tree-max-sum-not-connected-nodes.dll
+/Users/exodigital/source/repo/exam/sample/tree-max-sum-not-connected-nodes/obj/Debug/netcoreapp3.1/tree-max-sum-not-connected-nodes.pdb
+/Users/exodigital/source/repo/exam/sample/tree-max-sum-not-connected-nodes/obj/Debug/netcoreapp3.1/tree-max-sum-not-connected-nodes.genruntimeconfig.cache

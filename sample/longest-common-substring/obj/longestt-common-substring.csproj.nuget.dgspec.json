@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/exodigital/source/repo/exam/sample/lcs/longestt-common-substring.csproj": {}
+    "/Users/exodigital/source/repo/exam/sample/longest-common-substring/longestt-common-substring.csproj": {}
   },
   "projects": {
-    "/Users/exodigital/source/repo/exam/sample/lcs/longestt-common-substring.csproj": {
+    "/Users/exodigital/source/repo/exam/sample/longest-common-substring/longestt-common-substring.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/exodigital/source/repo/exam/sample/lcs/longestt-common-substring.csproj",
+        "projectUniqueName": "/Users/exodigital/source/repo/exam/sample/longest-common-substring/longestt-common-substring.csproj",
         "projectName": "longestt-common-substring",
-        "projectPath": "/Users/exodigital/source/repo/exam/sample/lcs/longestt-common-substring.csproj",
+        "projectPath": "/Users/exodigital/source/repo/exam/sample/longest-common-substring/longestt-common-substring.csproj",
         "packagesPath": "/Users/exodigital/.nuget/packages/",
-        "outputPath": "/Users/exodigital/source/repo/exam/sample/lcs/obj/",
+        "outputPath": "/Users/exodigital/source/repo/exam/sample/longest-common-substring/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/exodigital/.config/NuGet/NuGet.Config"

@@ -1,22 +1,28 @@
-﻿<Properties StartupConfiguration="{6BE0FDEE-C45E-4B24-A6F5-F3FA3DDCA936}|Default">
-  <MonoDevelop.Ide.ItemProperties.sample PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{4E996FC8-E1A0-4CEE-8C1E-54029D9E2D76}|Default">
+  <MonoDevelop.Ide.ItemProperties.tree-max-sum-not-connected-nodes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.matrix-multiplication-dp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="sample.sln">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tree-max-sum-not-connected-nodes/Program.cs">
     <Files>
       <File FileName="sample/Program.cs" Line="36" Column="15" />
       <File FileName="rod/Program.cs" Line="29" Column="1" />
       <File FileName="rod-dp/Program.cs" Line="17" Column="12" />
       <File FileName="rod-dp-cut-cost/Program.cs" Line="16" Column="23" />
       <File FileName="matrix-multiplication-dp/Program.cs" Line="28" Column="14" />
-      <File FileName="lcs/Program.cs" Line="46" Column="64" />
+      <File FileName="lcs/Program.cs" Line="60" Column="30" />
       <File FileName="lcs-efficent/Program.cs" Line="25" Column="50" />
       <File FileName="longest-common-substring/longestt-common-substring.csproj" Line="1" Column="1" />
-      <File FileName="sample.sln" Line="40" Column="81" />
+      <File FileName="sample.sln" Line="48" Column="1" />
+      <File FileName="tree-max-sum-not-connected-nodes/Program.cs" Line="27" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="sample" expanded="True" selected="True" />
+          <Node name="sample" expanded="True">
+            <Node name="longestt-common-substring" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="tree-max-sum-not-connected-nodes" expanded="True" />
+          </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -30,6 +36,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.rod-naive PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.closest-next-string PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.rod-dp-cut-cost PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.rod-dp PreferredExecutionTarget="MonoDevelop.Default" />

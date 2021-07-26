@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r+zUQ7gZCR+5x7Fe5oECT6SXPp533GckWrQziz0QRTK35H9uoRBeVhlm9QQxdKuuoFnn5gEkYOiPCm27pyqXWg==",
+  "dgSpecHash": "Yktg93NfRO+XoreCp9lBNIIZggtj6vEGsTiGjJcoaDvvPoSpqHDm+ZvknH2/+0Q8AK6SDgstWg5RxCOZkkQSfw==",
   "success": true,
-  "projectFilePath": "/Users/exodigital/source/repo/exam/sample/lcs-efficent/longest-common-subsequence.csproj",
+  "projectFilePath": "/Users/exodigital/source/repo/exam/sample/longest-common-subsequesnce/longest-common-subsequence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
