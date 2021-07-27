@@ -1,8 +1,9 @@
-﻿<Properties StartupConfiguration="{4D1CD96D-CAEB-4ECA-97E0-CF7CE6324580}|Default">
-  <MonoDevelop.Ide.ItemProperties.tree-diameter FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{EDD42192-6C4A-43F4-A8B9-7325A3A78983}|Default">
+  <MonoDevelop.Ide.ItemProperties.all-paranthesis FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.tree-diameter PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.tree-max-sum-not-connected-nodes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.matrix-multiplication-dp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="tree-diameter/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="all-paranthesis/Program.cs">
     <Files>
       <File FileName="sample/Program.cs" Line="36" Column="15" />
       <File FileName="rod/Program.cs" Line="29" Column="1" />
@@ -12,18 +13,18 @@
       <File FileName="lcs/Program.cs" Line="60" Column="30" />
       <File FileName="lcs-efficent/Program.cs" Line="25" Column="50" />
       <File FileName="longest-common-substring/longestt-common-substring.csproj" Line="1" Column="1" />
-      <File FileName="sample.sln" Line="50" Column="1" />
+      <File FileName="sample.sln" Line="52" Column="1" />
       <File FileName="tree-max-sum-not-connected-nodes/Program.cs" Line="27" Column="14" />
-      <File FileName="tree-diameter/Program.cs" Line="1" Column="1" />
+      <File FileName="tree-diameter/Program.cs" Line="43" Column="14" />
+      <File FileName="all-paranthesis/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="sample" expanded="True">
-            <Node name="longestt-common-substring" expanded="True">
-              <Node name="Dependencies" expanded="True" />
+            <Node name="all-paranthesis" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="tree-diameter" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>

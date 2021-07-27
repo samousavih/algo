@@ -1,0 +1,12 @@
+/Users/exodigital/source/repo/exam/sample/all-paranthesis/bin/Debug/netcoreapp3.1/all-paranthesis.deps.json
+/Users/exodigital/source/repo/exam/sample/all-paranthesis/bin/Debug/netcoreapp3.1/all-paranthesis.runtimeconfig.json
+/Users/exodigital/source/repo/exam/sample/all-paranthesis/bin/Debug/netcoreapp3.1/all-paranthesis.runtimeconfig.dev.json
+/Users/exodigital/source/repo/exam/sample/all-paranthesis/bin/Debug/netcoreapp3.1/all-paranthesis.dll
+/Users/exodigital/source/repo/exam/sample/all-paranthesis/bin/Debug/netcoreapp3.1/all-paranthesis.pdb
+/Users/exodigital/source/repo/exam/sample/all-paranthesis/obj/Debug/netcoreapp3.1/all-paranthesis.csproj.AssemblyReference.cache
+/Users/exodigital/source/repo/exam/sample/all-paranthesis/obj/Debug/netcoreapp3.1/all-paranthesis.AssemblyInfoInputs.cache
+/Users/exodigital/source/repo/exam/sample/all-paranthesis/obj/Debug/netcoreapp3.1/all-paranthesis.AssemblyInfo.cs
+/Users/exodigital/source/repo/exam/sample/all-paranthesis/obj/Debug/netcoreapp3.1/all-paranthesis.csproj.CoreCompileInputs.cache
+/Users/exodigital/source/repo/exam/sample/all-paranthesis/obj/Debug/netcoreapp3.1/all-paranthesis.dll
+/Users/exodigital/source/repo/exam/sample/all-paranthesis/obj/Debug/netcoreapp3.1/all-paranthesis.pdb
+/Users/exodigital/source/repo/exam/sample/all-paranthesis/obj/Debug/netcoreapp3.1/all-paranthesis.genruntimeconfig.cache
