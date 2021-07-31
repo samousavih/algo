@@ -1,0 +1,12 @@
+/Users/exodigital/source/repo/exam/sample/bfs/bin/Debug/netcoreapp3.1/bfs.deps.json
+/Users/exodigital/source/repo/exam/sample/bfs/bin/Debug/netcoreapp3.1/bfs.runtimeconfig.json
+/Users/exodigital/source/repo/exam/sample/bfs/bin/Debug/netcoreapp3.1/bfs.runtimeconfig.dev.json
+/Users/exodigital/source/repo/exam/sample/bfs/bin/Debug/netcoreapp3.1/bfs.dll
+/Users/exodigital/source/repo/exam/sample/bfs/bin/Debug/netcoreapp3.1/bfs.pdb
+/Users/exodigital/source/repo/exam/sample/bfs/obj/Debug/netcoreapp3.1/bfs.csproj.AssemblyReference.cache
+/Users/exodigital/source/repo/exam/sample/bfs/obj/Debug/netcoreapp3.1/bfs.AssemblyInfoInputs.cache
+/Users/exodigital/source/repo/exam/sample/bfs/obj/Debug/netcoreapp3.1/bfs.AssemblyInfo.cs
+/Users/exodigital/source/repo/exam/sample/bfs/obj/Debug/netcoreapp3.1/bfs.csproj.CoreCompileInputs.cache
+/Users/exodigital/source/repo/exam/sample/bfs/obj/Debug/netcoreapp3.1/bfs.dll
+/Users/exodigital/source/repo/exam/sample/bfs/obj/Debug/netcoreapp3.1/bfs.pdb
+/Users/exodigital/source/repo/exam/sample/bfs/obj/Debug/netcoreapp3.1/bfs.genruntimeconfig.cache
