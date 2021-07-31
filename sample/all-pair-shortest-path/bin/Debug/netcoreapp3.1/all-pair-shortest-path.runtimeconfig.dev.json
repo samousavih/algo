@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/exodigital/.dotnet/store/|arch|/|tfm|",
+      "/Users/exodigital/.nuget/packages"
+    ]
+  }
+}

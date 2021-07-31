@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "all-paranthesis", "all-para
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bfs", "bfs\bfs.csproj", "{F9C2C01A-2134-47DF-98D7-BC5DC170C4E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "all-pair-shortest-path", "all-pair-shortest-path\all-pair-shortest-path.csproj", "{5C257771-84C6-4780-8AB0-1D0F957B4E8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{F9C2C01A-2134-47DF-98D7-BC5DC170C4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9C2C01A-2134-47DF-98D7-BC5DC170C4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9C2C01A-2134-47DF-98D7-BC5DC170C4E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C257771-84C6-4780-8AB0-1D0F957B4E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C257771-84C6-4780-8AB0-1D0F957B4E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C257771-84C6-4780-8AB0-1D0F957B4E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C257771-84C6-4780-8AB0-1D0F957B4E8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
