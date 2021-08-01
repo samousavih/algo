@@ -1,0 +1,12 @@
+/Users/exodigital/source/repo/exam/sample/quick-sort/bin/Debug/netcoreapp3.1/quick-sort.deps.json
+/Users/exodigital/source/repo/exam/sample/quick-sort/bin/Debug/netcoreapp3.1/quick-sort.runtimeconfig.json
+/Users/exodigital/source/repo/exam/sample/quick-sort/bin/Debug/netcoreapp3.1/quick-sort.runtimeconfig.dev.json
+/Users/exodigital/source/repo/exam/sample/quick-sort/bin/Debug/netcoreapp3.1/quick-sort.dll
+/Users/exodigital/source/repo/exam/sample/quick-sort/bin/Debug/netcoreapp3.1/quick-sort.pdb
+/Users/exodigital/source/repo/exam/sample/quick-sort/obj/Debug/netcoreapp3.1/quick-sort.csproj.AssemblyReference.cache
+/Users/exodigital/source/repo/exam/sample/quick-sort/obj/Debug/netcoreapp3.1/quick-sort.AssemblyInfoInputs.cache
+/Users/exodigital/source/repo/exam/sample/quick-sort/obj/Debug/netcoreapp3.1/quick-sort.AssemblyInfo.cs
+/Users/exodigital/source/repo/exam/sample/quick-sort/obj/Debug/netcoreapp3.1/quick-sort.csproj.CoreCompileInputs.cache
+/Users/exodigital/source/repo/exam/sample/quick-sort/obj/Debug/netcoreapp3.1/quick-sort.dll
+/Users/exodigital/source/repo/exam/sample/quick-sort/obj/Debug/netcoreapp3.1/quick-sort.pdb
+/Users/exodigital/source/repo/exam/sample/quick-sort/obj/Debug/netcoreapp3.1/quick-sort.genruntimeconfig.cache

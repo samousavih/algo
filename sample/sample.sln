@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bfs", "bfs\bfs.csproj", "{F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "all-pair-shortest-path", "all-pair-shortest-path\all-pair-shortest-path.csproj", "{5C257771-84C6-4780-8AB0-1D0F957B4E8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quick-sort", "quick-sort\quick-sort.csproj", "{7E9712E0-FB4C-4F0B-ACD8-828FE26772C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{5C257771-84C6-4780-8AB0-1D0F957B4E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C257771-84C6-4780-8AB0-1D0F957B4E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C257771-84C6-4780-8AB0-1D0F957B4E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E9712E0-FB4C-4F0B-ACD8-828FE26772C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E9712E0-FB4C-4F0B-ACD8-828FE26772C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E9712E0-FB4C-4F0B-ACD8-828FE26772C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E9712E0-FB4C-4F0B-ACD8-828FE26772C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

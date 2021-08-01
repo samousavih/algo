@@ -1,35 +1,23 @@
-﻿<Properties StartupConfiguration="{5C257771-84C6-4780-8AB0-1D0F957B4E8C}|Default">
+﻿<Properties StartupConfiguration="{7E9712E0-FB4C-4F0B-ACD8-828FE26772C9}|Default">
   <MonoDevelop.Ide.ItemProperties.all-paranthesis PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.tree-diameter PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.tree-max-sum-not-connected-nodes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.bfs PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.matrix-multiplication-dp PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="all-pair-shortest-path/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="quick-sort/Program.cs">
     <Files>
-      <File FileName="sample/Program.cs" Line="36" Column="15" />
-      <File FileName="rod/Program.cs" Line="29" Column="1" />
-      <File FileName="rod-dp/Program.cs" Line="17" Column="12" />
-      <File FileName="rod-dp-cut-cost/Program.cs" Line="16" Column="23" />
-      <File FileName="matrix-multiplication-dp/Program.cs" Line="28" Column="14" />
-      <File FileName="lcs/Program.cs" Line="60" Column="30" />
-      <File FileName="lcs-efficent/Program.cs" Line="25" Column="50" />
-      <File FileName="longest-common-substring/longestt-common-substring.csproj" Line="1" Column="1" />
-      <File FileName="sample.sln" Line="56" Column="1" />
-      <File FileName="tree-max-sum-not-connected-nodes/Program.cs" Line="27" Column="14" />
-      <File FileName="tree-diameter/Program.cs" Line="43" Column="14" />
-      <File FileName="all-paranthesis/Program.cs" Line="39" Column="1" />
-      <File FileName="bfs/Program.cs" Line="77" Column="17" />
-      <File FileName="all-pair-shortest-path/Program.cs" Line="5" Column="1" />
+      <File FileName="quick-sort/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="sample" expanded="True">
-            <Node name="all-pair-shortest-path" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="all-pair-shortest-path" expanded="True" />
             <Node name="all-paranthesis" expanded="True" />
             <Node name="bfs" expanded="True" />
+            <Node name="quick-sort" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -47,6 +35,7 @@
   <MonoDevelop.Ide.ItemProperties.closest-next-string PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.rod-dp-cut-cost PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.quick-sort FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.rod-dp PreferredExecutionTarget="MonoDevelop.Default" />
   <DisabledProjects>
     <String>lcs-efficent/longest-common-subsequence.csproj</String>
@@ -54,7 +43,7 @@
     <String>longest-common-subsequence/longest-common-subsequence.csproj</String>
     <String>longestt-common-substring/longestt-common-substring.csproj</String>
   </DisabledProjects>
-  <MonoDevelop.Ide.ItemProperties.all-pair-shortest-path FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.all-pair-shortest-path PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
